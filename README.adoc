@@ -1,3 +1,7 @@
+= About
+
+Just a super simple example of how to get notified of cluster changes in VertX.
+
 = Clustering
 
 image:https://img.shields.io/badge/vert.x-3.8.5-purple.svg[link="https://vertx.io"]
